@@ -17,7 +17,7 @@ if hash[key]
   hash[key]
 else
   hash[key]=1
-  hash[key[]
+  hash[key]
 
 end
 
